@@ -94,6 +94,15 @@ button:hover {
     font-size: 120%;
     font-weight: 700;
     width: 70vh;
+    height: 3.5vh;
+}
+
+.todo i {
+    display: none;
+}
+
+.todo:hover i {
+    display: block;
 }
 
 .todo p {
